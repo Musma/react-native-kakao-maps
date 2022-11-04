@@ -1,7 +1,9 @@
+# git fork from jiggag/react-native-kakao-maps
+
 # react-native-kakao-maps
 
 ## Getting started
-`yarn add @jiggag/react-native-kakao-maps`
+`yarn add @musma/react-native-kakao-maps`
 
 ## Env
 ### 카카오 앱 키 설정
