@@ -15,7 +15,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Musma/react-native-kakao-maps.git"
+    "url": "https://github.com/Musma/react-native-kakao-maps.git"
   },
   "bugs": {
     "url": "https://github.com/Musma/react-native-kakao-maps/issues"
