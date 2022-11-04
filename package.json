@@ -1,5 +1,5 @@
 {
-  "name": "@musma/react-native-kakao-maps",
+  "name": "musma/react-native-kakao-maps",
   "version": "0.0.9",
   "description": "react native kakao map",
   "main": "index.js",
